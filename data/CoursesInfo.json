@@ -1,0 +1,38 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDcEwZTysaPvHbU-f2qyqJ72BFmzGDKlzb-GjjwOW9ZwwLW2_NZMR0nr4ZwlO2-7tfpI&usqp=CAU",
+        "tittle": "Programming Language C",
+        "description": "C programming is a general-purpose, procedural computer programming language originally developed at AT&T Bell Labs by Dennis Ritchie in the early 1970s. A successor of the B programming language, it was developed to overcome the challenges of BASIC, B, and BPCL programming languages. It had both high-level functionality and detailed features required to program an operating system. During the 1980s, C programming gained popularity for creating mainframes, microcomputers, and minicomputers and has become one of the most widely used programming languages.Despite the emergence of numerous new languages like Java, Python, JavaScript, and PHP, the popularity of C is not hampered. In fact, these languages have borrowed many of their control structures and other basic features from C."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZG7739eWowrkBSXjNg2B6dKYtNozCVlC6NQ&usqp=CAU",
+        "tittle": "Programming Language C++",
+        "description": "C++ (said C plus plus) is an object-oriented computer language created by notable computer scientist Bjorne Stroustrop as part of the evolution of the C family of languages. It was developed as a cross-platform improvement of C to provide developers with a higher degree of control over memory and system resources. Some call C++ “C with classes” because it introduces object-oriented programming principles, including the use of defined classes, to the C programming language framework. Over time, C++ has remained a very useful language not only in computer programming itself, but in teaching new programmers about how object-oriented programming works. However, it does not support only object-oriented, but also procedural and functional. Thanks to its high flexibility and scalability, C++ can be used to develop a broad range of software, applications, browsers, Graphical User Interfaces (GUIs), operating systems, and games."
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71011",
+        "image": "https://image.shutterstock.com/shutterstock/photos/2129445167/display_1500/stock-vector-java-logo-inscribed-in-the-circle-with-cut-edges-across-the-perimeter-black-and-white-2129445167.jpg",
+        "tittle": "Programming Language JAVA",
+        "description": "Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies. It is a computing platform for application development. Java is fast, secure, and reliable, therefore. It is widely used for developing Java applications in laptops, data centers, game consoles, scientific supercomputers, cell phones, etc.Java Platform is a collection of programs that help programmers to develop and run Java programming applications efficiently. It includes an execution engine, a compiler, and a set of libraries in it. It is a set of computer software and specifications. James Gosling developed the Java platform at Sun Microsystems, and the Oracle Corporation later acquired it."
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71012",
+        "image": "https://blog.logrocket.com/wp-content/uploads/2020/12/javascript-custom-events.png",
+        "tittle": "Programming Language JAVASCRIPT",
+        "description": "Javascript is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Javascript:Javascript is the most popular programming language in the world and that makes it a programmer’s great choice. Once you learnt Javascript, it helps you developing great front-end as well as back-end softwares using different Javascript based frameworks like jQuery, Node.JS etc."
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71012",
+        "image": "https://www.devopsschool.com/blog/wp-content/uploads/2022/03/Python-01-2.png",
+        "tittle": "Programming Language Python",
+        "description": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it’s relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.“Writing programs is a very creative and rewarding activity,” says University of Michigan and Coursera instructor Charles R Severance in his book Python for Everybody. “You can write programs for many reasons, ranging from making your living to solving a difficult data analysis problem to having fun to helping someone else solve a problem.”"
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f0",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyDNhJnALbGBe6tMM123MgQq7ITs_qf57D0SYv787Y7XHOjN587KTUnFGyM6T622RPOHk&usqp=CAU",
+        "tittle": "Programming Language PHP",
+        "description": "PHP is a scripting language, which is one of many programming languages. Note that all scripting languages are programming languages, but not all programming languages are scripting languages.A programming language is a formal computer language that combines instructions to generate a specific output. A programming language has all the necessary features to develop web applications. Each language also has distinct features and provides different functions.A scripting language incorporates additional functionalities for a specific action or function. It interprets scripts embedded into other software environments at runtime and is more straightforward with its code. "
+    }
+]
